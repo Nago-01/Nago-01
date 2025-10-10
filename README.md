@@ -2,7 +2,7 @@
 
 `Core Tools`:  Python | SQL
 
-`LLM Frameworks`:  LangChain | LangGraph 
+`AI/LLM Frameworks`:  LangChain | LangGraph 
 
 `Data Science & ML`:  Scikit-Learn | Pandas | Matplotlib
 
