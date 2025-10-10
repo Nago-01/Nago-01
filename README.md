@@ -1,8 +1,8 @@
 **Passionate about creating tech that makes life genuinely easier for people**
 
-`Languages`:  Python | SQL
+`Core Tools`:  Python | SQL
 
-`AI / LLM Frameworks`:  LangChain | LangGraph 
+`LLM Frameworks`:  LangChain | LangGraph 
 
 `Data Science & ML`:  Scikit-Learn | Pandas | Matplotlib
 
